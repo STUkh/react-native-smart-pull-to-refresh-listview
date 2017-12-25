@@ -2,7 +2,6 @@
 import React, {
     Component,
 } from 'react'
-import PropTypes form 'prop-types';
 import {
     View,
     ViewPropTypes,
