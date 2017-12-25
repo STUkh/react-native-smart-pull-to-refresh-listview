@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/react-native-component/react-native-smart-pull-to-refresh-listview.git"
+    "url": "git+https://github.com/STUkh/react-native-smart-pull-to-refresh-listview.git"
   },
   "keywords": [
     "react-native",
